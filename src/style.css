@@ -1,5 +1,25 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: black;
+    margin-top: 200px;
+    
+}
+.tittle{
+
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    font-size: 90px;
+    color: red;
+
+}
+#excusa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 80px;
+    color: blue;
 }
